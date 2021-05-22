@@ -1,0 +1,14 @@
+{
+	"name": "style-guide-template",
+	"version": "1.0.0",
+	"description": "Boilerplate for a StyleGuide template based off of the CodyHouse template",
+	"main": "index.js",
+	"scripts": {
+		"start": "parcel src/index.html"
+	},
+	"devDependencies": {
+		"@parcel/transformer-sass": "^2.0.0-beta.2",
+		"parcel": "^2.0.0-beta.2",
+		"sass": "^1.33.0"
+	}
+}
