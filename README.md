@@ -2,6 +2,6 @@
 
 ## Usage
 
--   `git clone <url>`
+-   `git clone https://github.com/diegoavalon/WDD-331__W05-Style-Guide.git`
 -   `npm install`
 -   `npm start`
